@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author Natha
+ * @author Natha -- JAN 2021
  */
 public class Student {
     
