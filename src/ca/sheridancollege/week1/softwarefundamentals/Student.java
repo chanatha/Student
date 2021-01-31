@@ -18,6 +18,26 @@ public class Student {
      *
      * @return the value of name
      */
+        private String getNumHours;
+
+    /**
+     * Get the value of getNumHours
+     *
+     * @return the value of getNumHours
+     */
+    public String getGetNumHours() {
+        return getNumHours;
+    }
+
+    /**
+     * Set the value of getNumHours
+     *
+     * @param getNumHours new value of getNumHours
+     */
+    public void setGetNumHours(String getNumHours) {
+        this.getNumHours = getNumHours;
+    }
+
     public String getName() {
         return name;
     }
